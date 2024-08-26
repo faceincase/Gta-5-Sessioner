@@ -1,2 +1,11 @@
-# Gta-5-Sessioner
-Use it if you want to easily empty a Gta 5 Online session to play alone, do stuff or sell stuff.
+<div align="center">
+  
+# Gta V Sessioner
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+</div>
+
+
+
+> [!WARNING]  
+> You need `pip install psutil` installed.
