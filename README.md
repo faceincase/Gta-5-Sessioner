@@ -16,4 +16,5 @@
 ## How does it work?
 
 It simply freezes Gta V process and reconnects you with empty session after a while.
-No need to open source monitor or unplug your network cable.
+<br>
+No need to open resource monitor or unplug your network cable.
