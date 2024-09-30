@@ -5,8 +5,6 @@
   
 </div>
 
-
-
 > [!WARNING]  
 > You need `pip install psutil` installed.
 
